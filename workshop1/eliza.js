@@ -31,6 +31,9 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
     "Please stop talking to me."
+    "I thought I told you...fuck off"
+    "If you don't get out of my face..."
+    "Self-destruct mode activated. 10,9,8,7,6,5,4,3,2,...why are you still here?"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
